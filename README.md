@@ -1,13 +1,14 @@
-```markdown
 # MATS 10.0 Application: Discovering and Steering a Therapeutic Empathy Circuit in LLMs
 
 [![PCA Visualization of Empathy Circuit](pca_plot.png)](pca_plot.png)  
 *Fig. 1: 2D PCA of residual stream activations at layer 8 (quarter-dataset). Blue = empathetic responses, red = dismissive/faux pas. Stars show patched activations shifting decisively toward the empathetic subspace under high-strength steering.*
 
-**Author:** Anantha Shakthi Ganeshan Thevar
+**Author:** Anantha Shakthi Ganeshan Thevar  
 **Stream:** Neel Nanda MATS 10.0 (Summer 2026)  
 **Time spent:** ~16 hours  
 **Date:** January 3, 2026  
+
+**Dedication:** This project is dedicated toward maybe me making it into Neel Nanda's MATS program — I'm thrilled at the prospect of growing as a mech interp researcher and contributing to pragmatic AI safety under your mentorship!
 
 ## Project Overview
 In ~16 hours I applied mechanistic interpretability techniques to probe **Theory of Mind (ToM)**-related circuits in a modern LLM, focusing on **therapeutic empathy** and **faux pas detection** in anxiety counseling dialogues.
